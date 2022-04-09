@@ -32,7 +32,7 @@ describe('Works integration tests', () => {
   })
 
   beforeEach(async () => {
-    await db.collection('evaluators').deleteMany({})
+    await db.collection('works').deleteMany({})
   })
 
   it('should save a work with valid mandatory properties', (done) => {
