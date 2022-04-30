@@ -1,0 +1,31 @@
+[{
+    "name": "Sidney Roberto de Sousa",
+    "email": "sidney@email.com",
+    "areas": ["CET", "CAE", "MDIS"],
+    "password": "senha1234"
+}, {
+    "name": "Leandro Magalhães Oliveira",
+    "email": "leandro@email.com",
+    "areas": ["CET", "CHCSA", "MDIS"],
+    "password": "senha1234"
+}, {
+    "name": "Valdinéia Garcia Silva",
+    "email": "valdineia@email.com",
+    "areas": ["CAE", "CBS", "MDIS", "CET", "CHCSA"],
+    "password": "senha1234"
+}, {
+    "name": "Vinícius de Araújo Maeda",
+    "email": "vinicius@email.com",
+    "areas": ["CAE", "CET", "CHCSA"],
+    "password": "senha1234"
+}, {
+    "name": "Marcia Ferreira Cristaldo",
+    "email": "marcia@email.com",
+    "areas": ["CAE", "CET", "MDIS"],
+    "password": "senha1234"
+}, {
+    "name": "Leandro de Jesus",
+    "email": "leandro.jesus@email.com",
+    "areas": ["CAE", "CET", "CBS"],
+    "password": "senha1234"
+}]

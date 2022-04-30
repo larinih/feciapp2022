@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React from 'react';
 
 import { RouteObject } from 'react-router-dom'
@@ -24,3 +25,8 @@ const routes: RouteObject[] = [
 ]
 
 export default routes
+=======
+export {
+    
+}
+>>>>>>> 979f5d99e816638a9d5c092607ce77bc93714334
